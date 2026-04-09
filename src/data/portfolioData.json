@@ -1,0 +1,213 @@
+{
+  "profile": {
+    "name": "PATEL PRUTHVI",
+    "role": "ASP.NET DEVELOPER",
+    "phone": "+91 9773484909",
+    "email": "prutha1108@gmail.com",
+    "location": "Vadodara, Gujarat",
+    "links": [
+      { "label": "LinkedIn Portfolio", "href": "https://www.linkedin.com/in/pruthvi-patel-314103266/" },
+      { "label": "GitHub", "href": "https://github.com/prutha1111" },
+      { "label": "Portfolio", "href": "#" }
+    ]
+  },
+  "navigation": [
+    { "label": "Summary", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Competencies", "href": "#process" },
+    { "label": "Education", "href": "#experience" },
+    { "label": "Projects", "href": "#work" },
+    { "label": "Certifications", "href": "#testimonials" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "hero": {
+    "eyebrow": "ASP.NET DEVELOPER",
+    "headline": "ASP.NET developer crafting scalable web apps.",
+    "description": "I build secure, responsive web experiences with clean MVC architecture, efficient databases, and practical UI workflows.",
+    "primaryCta": {
+      "label": "View Projects",
+      "href": "#work"
+    },
+    "secondaryCta": {
+      "label": "Contact Me",
+      "href": "#contact"
+    },
+    "details": [
+      "ASP.NET Core MVC",
+      "Entity Framework Core",
+      "MS SQL Server"
+    ]
+  },
+  "metrics": [
+    { "num": "3", "label": "Projects" },
+    { "num": "6", "label": "Certifications" },
+    { "num": "14", "label": "Core Skills" }
+  ],
+  "about": {
+    "title": "Profile",
+    "description": "Motivated and enthusiastic .NET Developer with strong knowledge of ASP.NET Core MVC, Entity Framework Core, and full stack web development. Skilled in building scalable web applications with clean architecture, responsive UI, and efficient database management. Hands-on experience in developing real-world projects including product management, student systems, and e-commerce platforms. Strong understanding of MVC pattern, CRUD operations, authentication, and REST-based development. Quick learner with a problem-solving mindset, eager to contribute to a professional development team and grow as a software developer."
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "description": "Core technologies and tools I use to build modern web applications.",
+    "categories": [
+      {
+        "label": "Languages",
+        "items": ["C", "C#", "JavaScript", "SQL", "HTML", "CSS"]
+      },
+      {
+        "label": "Backend",
+        "items": ["ASP.NET Core MVC", "Entity Framework Core"]
+      },
+      {
+        "label": "Frontend",
+        "items": ["Bootstrap", "Tailwind CSS", "JavaScript", "AJAX", "jQuery"]
+      },
+      {
+        "label": "Database",
+        "items": ["MS SQL Server", "MySQL", "MongoDB"]
+      },
+      {
+        "label": "Tools & Technologies",
+        "items": ["Git", "GitHub", "Visual Studio"]
+      }
+    ]
+  },
+  "process": {
+    "title": "Core Competencies",
+    "description": "Practical strengths applied across projects and daily development work.",
+    "items": [
+      "Strong knowledge of ASP.NET Core MVC architecture",
+      "Experience with Entity Framework Core (Code First approach)",
+      "Frontend development using HTML, CSS, Bootstrap, Tailwind CSS",
+      "Dynamic UI handling using JavaScript, AJAX, jQuery",
+      "Database design and management using MS SQL Server",
+      "Implementation of CRUD operations (Create, Read, Update, Delete)",
+      "Basic understanding of REST APIs and web services",
+      "Knowledge of Authentication & Authorization (ASP.NET Identity)",
+      "Experience in role-based access control systems",
+      "Writing clean, structured, and maintainable code",
+      "Debugging and problem-solving skills",
+      "Version control using Git & GitHub",
+      "Understanding of responsive web design principles",
+      "Ability to work in team environments and follow coding standards",
+      "Quick learner with adaptability to new technologies"
+    ]
+  },
+  "experience": {
+    "title": "Education",
+    "items": [
+      {
+        "role": "MSc-IT (Full Stack Web Development) (Pursuing)",
+        "company": "Parul University",
+        "period": "2025 – 2027",
+        "desc": "Postgraduate study focused on full stack web development and applied software engineering practices."
+      },
+      {
+        "role": "BCA (Artificial Intelligence)",
+        "company": "Parul University",
+        "period": "2022 – 2025",
+        "desc": "Undergraduate study building a strong base in computing, AI concepts, and software development."
+      },
+      {
+        "role": "Higher Secondary Education",
+        "company": "Auxilium Convent High School",
+        "period": "2020 – 2022",
+        "desc": "Completed higher secondary education with a focus on foundational academics and problem-solving skills."
+      },
+      {
+        "role": "Primary & Secondary Education",
+        "company": "Ambe School",
+        "period": "2010 – 2020",
+        "desc": "Completed primary and secondary education with consistent academic growth."
+      }
+    ]
+  },
+  "works": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Product Management System",
+        "category": "ASP.NET Core MVC · EF Core · MS SQL Server · Bootstrap · AJAX · jQuery",
+        "detail": "Developed a scalable Product Management System using ASP.NET Core MVC following proper MVC architecture and separation of concerns.",
+        "githubUrl": "https://github.com/prutha1111",
+        "highlights": [
+          "Implemented complete CRUD operations for product data management.",
+          "Designed and integrated Entity Framework Core Code First database operations.",
+          "Applied server-side validation to maintain data integrity.",
+          "Enhanced user experience with AJAX-based real-time updates.",
+          "Built a responsive and user-friendly UI using Bootstrap.",
+          "Optimized query performance using LINQ and maintained clean code structure."
+        ]
+      },
+      {
+        "title": "Student Management System",
+        "category": "ASP.NET Core MVC · ASP.NET Identity · MS SQL Server · Bootstrap",
+        "detail": "Designed and developed a Student Management System to manage student profiles, academic records, and performance tracking.",
+        "githubUrl": "https://github.com/prutha1111",
+        "highlights": [
+          "Implemented role-based authentication and authorization using ASP.NET Identity.",
+          "Developed marks calculation for total, percentage, and grade.",
+          "Enabled secure login and registration with validation.",
+          "Created admin features to manage student records.",
+          "Provided user profile management for secure updates.",
+          "Designed a clean, responsive, and accessible UI."
+        ]
+      },
+      {
+        "title": "E-Commerce Website",
+        "category": "ASP.NET Core MVC · Entity Framework Core · MS SQL Server · HTML5 · CSS3 · JavaScript",
+        "detail": "Developed a dynamic E-Commerce web application using ASP.NET Core MVC with proper MVC architecture.",
+        "githubUrl": "https://github.com/prutha1111",
+        "highlights": [
+          "Implemented product listing, category filtering, and search functionality.",
+          "Built Add to Cart, Update Cart, and Remove Items features.",
+          "Designed responsive UI using HTML5, CSS3, and Bootstrap.",
+          "Used Entity Framework Core for database operations.",
+          "Managed product and user data using MS SQL Server.",
+          "Applied validation and structured coding practices."
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Certifications",
+    "items": [
+      {
+        "title": "ASP.NET Core MVC – Beginner to Advanced",
+        "issuer": "Udemy"
+      },
+      {
+        "title": "C# Fundamentals",
+        "issuer": "Microsoft Learn"
+      },
+      {
+        "title": "SQL for Beginners",
+        "issuer": "Great Learning"
+      },
+      {
+        "title": "JavaScript Basics",
+        "issuer": "Coursera"
+      },
+      {
+        "title": "Git & GitHub Essentials",
+        "issuer": "Great Learning"
+      },
+      {
+        "title": "Full Stack Web Development Basics",
+        "issuer": "Simplilearn"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "headline": "Open to internships, opportunities, and collaboration.",
+    "email": "prutha1108@gmail.com",
+    "phone": "+91 9773484909",
+    "location": "Vadodara, Gujarat",
+    "socials": [
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/pruthvi-patel-314103266/" },
+      { "label": "GitHub", "href": "https://github.com/prutha1111" }
+    ]
+  }
+}
