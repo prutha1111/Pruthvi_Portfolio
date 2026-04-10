@@ -130,7 +130,7 @@
         "title": "Product Management System",
         "category": "ASP.NET Core MVC · EF Core · MS SQL Server · Bootstrap · AJAX · jQuery",
         "detail": "Developed a scalable Product Management System using ASP.NET Core MVC following proper MVC architecture and separation of concerns.",
-        "githubUrl": "https://github.com/prutha1111",
+        "githubUrl": "https://github.com/prutha1111/Asp.Net-Core-Inventory-Order-Management-System-ASP.NET-9.git",
         "highlights": [
           "Implemented complete CRUD operations for product data management.",
           "Designed and integrated Entity Framework Core Code First database operations.",
@@ -144,7 +144,7 @@
         "title": "Student Management System",
         "category": "ASP.NET Core MVC · ASP.NET Identity · MS SQL Server · Bootstrap",
         "detail": "Designed and developed a Student Management System to manage student profiles, academic records, and performance tracking.",
-        "githubUrl": "https://github.com/prutha1111",
+        "githubUrl": "https://github.com/prutha1111/Student-Management-System-ASP.git",
         "highlights": [
           "Implemented role-based authentication and authorization using ASP.NET Identity.",
           "Developed marks calculation for total, percentage, and grade.",
